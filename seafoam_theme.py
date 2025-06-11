@@ -12,7 +12,7 @@ class Seafoam(Base):
         | str
         | Iterable[fonts.Font | str] = (
             fonts.GoogleFont("Quicksand"),
-            "ui-sans-serif",
+            "ui-sans-serif", 
             "sans-serif",
         ),
         font_mono: fonts.Font
