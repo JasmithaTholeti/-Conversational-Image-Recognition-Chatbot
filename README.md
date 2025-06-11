@@ -4,7 +4,7 @@ An AI-powered chatbot that combines Vision Transformers for object detection and
 # Quick Guide
 + Ensure that all requirements are installed
 + Clone the repository using the following command
-'git clone https://github.com/JasmithaTholeti/-Conversational-Image-Recognition-Chatbot/edit/main/README.md '
+'git clone https://github.com/JasmithaTholeti/-Conversational-Image-Recognition-Chatbot`
 
 # Running the code
 + Run main1.py
